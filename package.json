@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "fs-extra": "^8.1.0",
-    "luxon": "^1.19.3",
+    "luxon": "^1.28.1",
     "path": "^0.12.7",
     "string-template": "^1.0.0",
     "copy-webpack-plugin": "^5.0.4"
